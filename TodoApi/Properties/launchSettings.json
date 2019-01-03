@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "TodoApi": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --pause-on-error",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:7072/"
+    }
+  }
+}
